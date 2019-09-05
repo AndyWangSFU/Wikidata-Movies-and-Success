@@ -1,4 +1,5 @@
-CMPT 353 final project
+# Wikidata, Movies and Success
+
 This project mainly covers 2 important questions: 
 1. What conditions determine a movie's success? Directors, production company or actors? 
 2. How good can we perform to predict a movie's genre using its plot summary? 
