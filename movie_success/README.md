@@ -1,11 +1,11 @@
-# CMPT 353 final project
-# This project mainly covers 2 important questions: 
-# 1. What conditions determine a movie's success? Directors, production company or actors? 
-# 2. How good can we perform to predict a movie's genre using its plot summary? 
+CMPT 353 final project
+This project mainly covers 2 important questions: 
+1. What conditions determine a movie's success? Directors, production company or actors? 
+2. How good can we perform to predict a movie's genre using its plot summary? 
 
-# The project contains a report.
+The project contains a report.
 
-# To run this project:
+To run this project:
 1.install these two packages to run NLP.ipynb:
  import nltk
  nltk.download('punkt')
